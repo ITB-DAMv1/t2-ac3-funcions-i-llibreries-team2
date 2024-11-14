@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ImplementacionPseudoTeam2/1.0.0": {
+        "runtime": {
+          "ImplementacionPseudoTeam2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImplementacionPseudoTeam2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

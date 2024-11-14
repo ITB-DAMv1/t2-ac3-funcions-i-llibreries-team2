@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\bin\Debug\net8.0\ImplementacionPseudoTeam2.exe
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\bin\Debug\net8.0\ImplementacionPseudoTeam2.deps.json
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\bin\Debug\net8.0\ImplementacionPseudoTeam2.runtimeconfig.json
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\bin\Debug\net8.0\ImplementacionPseudoTeam2.dll
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\bin\Debug\net8.0\ImplementacionPseudoTeam2.pdb
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.AssemblyInfo.cs
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.dll
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\refint\ImplementacionPseudoTeam2.dll
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.pdb
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ImplementacionPseudoTeam2.genruntimeconfig.cache
+C:\Users\isard\source\repos\ImplementacionPseudoTeam2\ImplementacionPseudoTeam2\obj\Debug\net8.0\ref\ImplementacionPseudoTeam2.dll
