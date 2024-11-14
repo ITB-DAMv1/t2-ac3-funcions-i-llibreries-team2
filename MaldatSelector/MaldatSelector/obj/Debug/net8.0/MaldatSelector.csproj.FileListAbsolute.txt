@@ -1,0 +1,14 @@
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\bin\Debug\net8.0\MaldatSelector.exe
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\bin\Debug\net8.0\MaldatSelector.deps.json
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\bin\Debug\net8.0\MaldatSelector.runtimeconfig.json
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\bin\Debug\net8.0\MaldatSelector.dll
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\bin\Debug\net8.0\MaldatSelector.pdb
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.AssemblyInfoInputs.cache
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.AssemblyInfo.cs
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.csproj.CoreCompileInputs.cache
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.dll
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\refint\MaldatSelector.dll
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.pdb
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\MaldatSelector.genruntimeconfig.cache
+C:\Users\isard\Desktop\Programacio\MaldatSelector\MaldatSelector\obj\Debug\net8.0\ref\MaldatSelector.dll
