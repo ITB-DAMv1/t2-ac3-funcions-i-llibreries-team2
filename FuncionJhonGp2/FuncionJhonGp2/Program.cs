@@ -11,6 +11,7 @@ namespace FuncionJhonGp2
             // AvatarSelector(string userAvatar by ref, string MsgUserAvatar by ref);
             AvatarSelector(ref userAvatar, MsgUserAvatar);
         }
+        //Agrego los parametros para la funcion ya que no tenian.
         public static void AvatarSelector(ref int userAvatar, string MsgUserAvatar)
         {
             Console.WriteLine(MsgUserAvatar);

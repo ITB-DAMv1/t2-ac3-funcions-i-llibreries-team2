@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncionJhonGp2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0780c6f02264f5f6ed6301ad9496b945ba745459")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a24af794ff887a23e7fa33c234f575a48b42d8b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncionJhonGp2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncionJhonGp2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
